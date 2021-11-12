@@ -1,10 +1,12 @@
 # Hello World! Eu sou o Gabriel, o pequeno gafanhoto no mundo da programação 🖖🤓
+<img src="https://i.picasion.com/pic91/8f6b98d53e27f779909cdb9b626b5f0a.gif" width="200" height="200" border="0" alt="https://picasion.com/"/></a><br/>
 
 ## Sobre mim!
 - 🔭 Aluno de Análise e Desenvolvimento de Sistemas 
 - 💻 Apaixonado pelo mundo da programação de computadores
 - 🤖 Sonha ser um desenvolvedor Android no futuro
 - ☕ Gosta de um bom _Coffee Java_  
+
 
 ## Minhas atividades
 <div align="center">
@@ -31,5 +33,4 @@
 
   <a href = "mailto:gabrielviticov.ctt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-viticov-plata-de-souza-7381b8211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+                                                                                                                                          
