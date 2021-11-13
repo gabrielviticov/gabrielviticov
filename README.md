@@ -1,11 +1,13 @@
-# Hello World! Eu sou o Gabriel, o pequeno gafanhoto no mundo da programação 🖖🤓
+# Hello World! 
+## Eu sou o Gabriel, o pequeno gafanhoto no mundo da programação 🖖🤓
 <img src="https://i.picasion.com/pic91/8f6b98d53e27f779909cdb9b626b5f0a.gif" width="200" height="200" border="0" alt="https://picasion.com/"/></a><br/>
 
 ## Sobre mim!
 - 🔭 Aluno de Análise e Desenvolvimento de Sistemas 
 - 💻 Apaixonado pelo mundo da programação de computadores
 - 🤖 Sonha ser um desenvolvedor Android no futuro
-- ☕ Gosta de um bom _Coffee Java_  
+- ☕ Aprendendo a linguagem da xícara de café
+- 👨🏻‍💼 Busco uma oportunidade de estágio.   
 
 
 ## Minhas atividades
